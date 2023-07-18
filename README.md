@@ -9,7 +9,7 @@
 
 
 <img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTA5MmJhMzRkN2FmMDNmNzg0MzYxMTcyMjg2NTIzNzJiODRkYzBlMSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
+<br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyajeet-muni&label=Profile%20views&color=0e75b6&style=flat" alt="soumyajeet-muni" /> </p>
 
 - 🔭 I’m currently working on [Code Green](https://github.com/Soumyajeet-Muni/CODE-GREEN-CODE-CLEAN)
