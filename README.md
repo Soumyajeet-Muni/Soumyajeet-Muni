@@ -1,16 +1,17 @@
-<img align="center" alt="Coding" width="1000" height="300" bac src="https://github.com/Soumyajeet-Muni/Soumyajeet-Muni/blob/main/text%20(1).gif">
+[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)](https://rishavchanda.io)
 
 <br><br>
 
 
-<h1 align="center"> </h1>
+<h1 align="center"> Hi 👋 , I am Soumyajeet</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 <br><br>
 
-
-<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTA5MmJhMzRkN2FmMDNmNzg0MzYxMTcyMjg2NTIzNzJiODRkYzBlMSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
-<br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyajeet-muni&label=Profile%20views&color=0e75b6&style=flat" alt="soumyajeet-muni" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTA5MmJhMzRkN2FmMDNmNzg0MzYxMTcyMjg2NTIzNzJiODRkYzBlMSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<br><br>
+
 
 - 🔭 I’m currently working on [Code Green](https://github.com/Soumyajeet-Muni/CODE-GREEN-CODE-CLEAN)
 
