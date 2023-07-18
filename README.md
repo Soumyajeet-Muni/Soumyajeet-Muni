@@ -1,7 +1,5 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)](https://rishavchanda.io)
 
-<br><br>
-
 
 <h1 align="center"> Hi 👋 , I am Soumyajeet</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
