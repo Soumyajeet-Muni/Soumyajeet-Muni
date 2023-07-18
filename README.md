@@ -8,6 +8,7 @@
 <br><br>
 
 
+<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTA5MmJhMzRkN2FmMDNmNzg0MzYxMTcyMjg2NTIzNzJiODRkYzBlMSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyajeet-muni&label=Profile%20views&color=0e75b6&style=flat" alt="soumyajeet-muni" /> </p>
 
@@ -17,13 +18,13 @@
 
 - 👯 I’m looking to collaborate on [Tourism management in Odisha](https://github.com/Soumyajeet-Muni/Tour)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-omega-virid-66.vercel.app/](https://portfolio-omega-virid-66.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-omega-virid-66.vercel.app/)
 
 - 💬 Ask me about **MERN,DSA**
 
 - 📫 How to reach me **soumyajeetmuni@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BzG6xEqBDxk-rZGWVRxb0y1WRnEHvss8/view](https://drive.google.com/file/d/1BzG6xEqBDxk-rZGWVRxb0y1WRnEHvss8/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1BzG6xEqBDxk-rZGWVRxb0y1WRnEHvss8/view)
 
   <br><br>
 
@@ -46,5 +47,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyajeet-Muni&layout=pie)](https://github.com/Soumyajeet-Muni/github-readme-stats)
 
-
+<br><br>
+![Soumyajeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumyajeet-Muni&show_icons=true&theme=transparent)
 
